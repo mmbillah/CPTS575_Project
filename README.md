@@ -1,2 +1,2 @@
 # CPTS575_DataScience_Project
-Semester project based on the Kaggle competition titled as Mehcanism of Action (MoA) Detection
+Multilabel Classification of Drug from Mechanism of Action (MoA).
